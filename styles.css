@@ -1,0 +1,16 @@
+#app {
+    display: flex;
+    /* flex-direction: column;     */
+    flex-wrap: wrap;
+}
+
+img {
+    height: 80%;
+    width: 100%;
+}
+
+.card {
+    height: 450px;
+    width: 250px;
+}
+
